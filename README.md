@@ -1,7 +1,7 @@
 ## Hi everyone, I'm [cenguigui](https://www.cenguigui.cn). 👋
 
 ### Code Rating
-<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=FW27623&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
+<img align="left" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api?username=cenguigui&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
 <img align="center" height="180px" width="auto" src="https://github-readme-stats-mu-lilac-56.vercel.app/api/top-langs/?username=cenguigui&hide_title=false&show_icons=true&line_height=21&icon_color=0078e7&title_color=0078e7&locale=en">
   
   

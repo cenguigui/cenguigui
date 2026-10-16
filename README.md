@@ -1,6 +1,5 @@
 ## Hi everyone, I'm [cenguigui](https://www.cenguigui.cn). 👋
 
-  
 <br>
 
 ### 📊 Weekly Work Status Report
